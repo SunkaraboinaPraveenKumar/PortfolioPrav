@@ -49,9 +49,9 @@ a{
     font-family: inherit;
 }
 header{
-    height:105vh;
+    height:160vh;
     color:var(--color-white);
-    overflow:hidden;
+    overflow: hidden;
 }
 section{
     min-height: 100vh;
@@ -192,7 +192,7 @@ section{
     }
     p{
         margin:1.5rem 0;
-        line-height: 2rem;
+        line-height: 1.8rem;
     }
 }
 .btn-cont{
